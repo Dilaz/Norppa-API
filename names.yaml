@@ -1,0 +1,2 @@
+nc: 3  # number of classes
+names: ['joutsen', 'lintu', 'norppa']  # class names
